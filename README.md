@@ -15,7 +15,7 @@ I am a B.Tech student in Information Technology at Guru Nanak Dev Engineering Co
 🌍  I'm based in India
 
 ## 📫 Connect with Me
-- LinkedIn : [Sanya Srivastava] (https://www.linkedin.com/in/sanya-srivastava-b961b428a/)
+- LinkedIn : [Sanya Srivastava](https://www.linkedin.com/in/sanya-srivastava-b961b428a/)
 - Email: [sanyasrivastava0732@gmail.com](mailto:sanyasrivastava0732@gmail.com)
 
 
