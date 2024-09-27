@@ -8,7 +8,7 @@ I am a B.Tech student in Information Technology at Guru Nanak Dev Engineering Co
 ✍️ Exploring new technologies.
 
 ## 🛠 Tech Stack
-🌍  I'm based in India
+🌍  I'm based in India <br>
 💻 Python | C++ | C | Java  
 🌐 HTML | CSS | JavaScript | Bootstrap | ReactJS | ExpressJS | NodeJS  
 🛢 MySQL | MongoDB  
