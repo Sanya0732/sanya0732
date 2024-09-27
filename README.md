@@ -8,11 +8,11 @@ I am a B.Tech student in Information Technology at Guru Nanak Dev Engineering Co
 ✍️ Exploring new technologies.
 
 ## 🛠 Tech Stack
+🌍  I'm based in India
 💻 Python | C++ | C | Java  
 🌐 HTML | CSS | JavaScript | Bootstrap | ReactJS | ExpressJS | NodeJS  
 🛢 MySQL | MongoDB  
 🔧 PyCharm | Visual Studio Code | Eclipse
-🌍  I'm based in India
 
 ## 📫 Connect with Me
 - LinkedIn : [Sanya Srivastava](https://www.linkedin.com/in/sanya-srivastava-b961b428a/)
